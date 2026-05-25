@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.musicapplication",
+    "sha256_cert_fingerprints": ["A8:BD:31:F9:62:E2:5B:DB:AF:9A:16:13:C7:C4:BB:36:BF:EF:88:5D:78:0D:C6:78:20:28:A4:EA:BB:CC:82:61"]
+  }
+}]
